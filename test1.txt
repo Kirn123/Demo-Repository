@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A0F0-FC43
+
+ Directory of C:\Users\HP\OneDrive\Desktop\myproject
+
+01/04/2021  11:08 AM    <DIR>          .
+01/04/2021  11:08 AM    <DIR>          ..
+01/04/2021  11:08 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,095,601,152 bytes free
